@@ -1,8 +1,13 @@
 # Voyageur
 
 ## D'escription
-C'est une application qui facilite la communication entre les voyageurs la Gare Routiere Charlemagne Peralte et en un click,
-il permet aux voyageurs de mieux connaitre tous les details sur le trajet, le prix,la destination,l'heure d'arriver et l'heure de départ.
+C'est une application qui facilite la communication entre les utilisateurs et la Gare Routiere Charlemagne Peralte, en un click,
+il permet aux utilisateurs de mieux connaitre tous les details sur le trajet, le prix,la destination,l'heure d'arriver et l'heure de départ des bus.
+
+# Membre du groupe
+- Lionel Joseph
+- Freduique Saint Phillipe
+- Fednayson Suprême 
 
 ## User story
 
