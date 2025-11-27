@@ -28,6 +28,8 @@ Maybe
 Would be nice to have
 ### Les utilisateurs peuvent:
 - Passer d'une langue a une autre
+  
+![Animation](https://github.com/user-attachments/assets/37fb7b7b-0fd1-4816-a609-372bcc08e902)
 
 
 
